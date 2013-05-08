@@ -7,9 +7,33 @@ Influenced by
   - [d.school DT](http://dschool.stanford.edu/)
   - failing at finishing many products
 
-Cheeseburgers name is derived from the idea that product development speed shouldn't impede market integration.
+The name is derived from the idea that a product development process should introduce product variance.
 
 ![image](http://cl.ly/OqHB/Screen%20Shot%202013-05-08%20at%207.29.25%20PM.png)
 
-### The System
+## The System
+
+```javascript
+
+{
+  "name": "cheeseburger",
+  "description": "An emptathy first, market testing informed process for building new products",
+  "version": v0.0.1,
+  "contributors":[
+  {
+  "name": "TJ Krusinski",
+  "role": "cheese layer"
+  },
+  {
+  "name": "Chris Constable",
+  "role": "fry fryer"
+  },
+  {
+  "name": "Robb Schiller",
+  "role": "grease drinker"
+  }
+  ];
+}
+
+```
 

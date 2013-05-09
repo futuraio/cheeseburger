@@ -13,11 +13,19 @@ The name is derived from the idea that a product development process should intr
 
 ## The System
 
+T.O.C.
+  - [idea.json](https://github.com/FuturaIO/cheeseburger#idea.json)
+  - [Prelude](https://github.com/FuturaIO/cheeseburger#prelude)
+  - [Structure](https://github.com/FuturaIO/cheeseburger#structure)
+
+
+### idea.json
+
 ```javascript
 
 {
 	"name": "cheeseburger",
-	"description": "An empathy first, market testing informed process for building new products",
+	"description": "An empathy first, prototype informed, github organized methodology for building new products",
 	"version": "0.0.1",
 	"contributors": [
 		{
@@ -33,6 +41,14 @@ The name is derived from the idea that a product development process should intr
 			"role": "grease drinker"
 		}
 	]
+  "ideaDependencies": []
 }
 
 ```
+
+### Prelude
+This is not a joke.
+
+### Structure
+Cheeseburger is facilitated by moving product features through a flagging system. Every product feature is treated on an equal playing field and therefore organized by the same global system for product development. Features can have 4 stages; `proposed`, `testing`, `active` and `used`. At any point in development any feature can move forward or backward on this track.
+

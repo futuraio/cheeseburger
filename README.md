@@ -16,24 +16,23 @@ The name is derived from the idea that a product development process should intr
 ```javascript
 
 {
-  "name": "cheeseburger",
-  "description": "An emptathy first, market testing informed process for building new products",
-  "version": v0.0.1,
-  "contributors":[
-  {
-  "name": "TJ Krusinski",
-  "role": "cheese layer"
-  },
-  {
-  "name": "Chris Constable",
-  "role": "fry fryer"
-  },
-  {
-  "name": "Robb Schiller",
-  "role": "grease drinker"
-  }
-  ];
+	"name": "cheeseburger",
+	"description": "An empathy first, market testing informed process for building new products",
+	"version": "0.0.1",
+	"contributors": [
+		{
+			"name": "TJ Krusinski",
+			"role": "cheese layer"
+		},
+		{
+			"name": "Chris Constable",
+			"role": "fry fryer"
+		},
+		{
+			"name": "Robb Schiller",
+			"role": "grease drinker"
+		}
+	]
 }
 
 ```
-

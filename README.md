@@ -41,8 +41,8 @@ The name is derived from the idea that a product development process should intr
 			"name": "Robb Schiller",
 			"role": "grease drinker"
 		}
-	]
-  "ideaDependencies": []
+	],
+	"ideaDependencies": []
 }
 
 ```
@@ -73,7 +73,3 @@ Cheeseburger is facilitated by moving product features through a flagging system
     - A stage in the synthesize micro is compiling the understand data in a current stage definition (CSD).
   - **Prototype**
     - A stage in the micro *prototype* is one being actively tested on users in low-reslution formats.
-
-
-
-

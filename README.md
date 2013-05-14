@@ -53,7 +53,7 @@ This is not a joke. One day, TJ and Robb were talking about how many unfinished 
 Using GitHub issues as a project management system - We're synthesizing the product development ideas behind Design Thinking and the experinces we've all had working on products that have failed and succeeded.
 
 ### Structure
-Cheeseburger is facilitated by moving product features through a flagging system. Every product feature is treated on an equal playing field and therefore organized by the same global system for product development. Features can have 3 stages; `proposed`, `testing` and `active`. At any point in development any feature can move forward or backward on this track. Additionally, within each stage - each feature must move along the micro track. Any feature in the `proposed`, `testing` or `active` stage can be in the micro 'understand', 'synthesize' or 'prototype'.
+Cheeseburger is facilitated by moving product features through a flagging system. Every product feature is treated on an equal playing field and therefore organized by the same global system for product development. Features can have 3 stages; `proposed`, `testing` and `active`. At any point in development any feature can move forward or backward on this track. Additionally, within each stage - each feature must move along the micro track. Any feature in the `proposed`, `testing` or `active` stage can be in the micro `understand`, `synthesize` or `prototype`.
 
 #### Feature Stages
 

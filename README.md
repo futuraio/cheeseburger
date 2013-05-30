@@ -17,6 +17,7 @@ The name is derived from the idea that a product development process should intr
   - [idea.json](https://github.com/FuturaIO/cheeseburger#idea.json)
   - [Prelude](https://github.com/FuturaIO/cheeseburger#prelude)
   - [Structure](https://github.com/FuturaIO/cheeseburger#structure)
+  	- [Base](https://github.com/FuturaIO/cheeseburger#base)
     - [Feature Stages](https://github.com/FuturaIO/cheeseburger#feature-stages)
     - [Feature Stage Micros](https://github.com/FuturaIO/cheeseburger#feature-stage-micros)
 
@@ -54,6 +55,9 @@ Using GitHub issues as a project management system - We're synthesizing the prod
 
 ### Structure
 Cheeseburger is facilitated by moving product features through a flagging system. Every product feature is treated on an equal playing field and therefore organized by the same global system for product development. Features can have 3 stages; `proposed`, `testing` and `active`. At any point in development any feature can move forward or backward on this track. Additionally, within each stage - each feature must move along the micro track. Any feature in the `proposed`, `testing` or `active` stage can be in the micro `understand`, `synthesize` or `prototype`.
+
+#### Base
+Every cheeseburger managed project has a "Base" Issue which definies the units which denote base functional application. The "Base" Issue will change depending on the nature of the applicaiton, i.e. Mobile Web, iOS, etc… 
 
 #### Feature Stages
 

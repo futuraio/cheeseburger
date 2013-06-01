@@ -14,46 +14,19 @@ The name is derived from the idea that a product development process should intr
 ## The System
 
 **Table of Contents**
-  - [idea.json](https://github.com/FuturaIO/cheeseburger#idea.json)
   - [Prelude](https://github.com/FuturaIO/cheeseburger#prelude)
   - [Requirements](https://github.com/FuturaIO/cheeseburger#requirements)
   - [Structure](https://github.com/FuturaIO/cheeseburger#structure)
   	- [Base](https://github.com/FuturaIO/cheeseburger#base)
     - [Feature Stages](https://github.com/FuturaIO/cheeseburger#feature-stages)
     - [Feature Stage Micros](https://github.com/FuturaIO/cheeseburger#feature-stage-micros)
-   - [Formatting](https://github.com/FuturaIO/cheeseburger#formatting)
+  - [Formatting](https://github.com/FuturaIO/cheeseburger#formatting)
 
-### idea.json
-
-```javascript
-
-{
-	"name": "cheeseburger",
-	"description": "An empathy first, prototype informed, github organized methodology for building new products",
-	"version": "0.0.1",
-	"contributors": [
-		{
-			"name": "TJ Krusinski",
-			"role": "cheese layer"
-		},
-		{
-			"name": "Chris Constable",
-			"role": "fry fryer"
-		},
-		{
-			"name": "Robb Schiller",
-			"role": "grease drinker"
-		}
-	],
-	"ideaDependencies": []
-}
-
-```
 
 ### Prelude
-This is not a joke. One day, TJ and Robb were talking about how many unfinished products there are. We lamented the repo graveyards that tend to gingerly decay into tutorials of how not to code for future self. Inspired by the progress of our forefathers, we took to the task of creating a simple system for managing, discussing and organizing product development by it's smallest unit - the feature.
+The Cheeseburger Methodology arose out of a realization for a more tightly knit, yet loosely controlled system for organizing product development. We didn't want to get tied into heavy feature listing and see too many half-finished repos. Cheeseburger is meant to help steer product direction and keep accountability around finishing products entirely.
 
-Using GitHub issues as a project management system - We're synthesizing the product development ideas behind Design Thinking and the experinces we've all had working on products that have failed and succeeded.
+Addtionally, Cheeseburger is an entirely GitHub Issues managed product development system. It utilizes some customizations to the Issue tagging systema and transitioning information into the Wiki for "always on feature development conversations". 
 
 ### Requirements
 Organizing product development process with the Cheese is entirely predicated upon working solely out of GitHub issues for communication and management. All issues, milestones, labels and work are done alongside the main repository managing the codebase for the application.

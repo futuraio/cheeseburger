@@ -40,7 +40,7 @@ Cheeseburger is facilitated by moving product features through a labeling system
 
 
 #### Base
-Every cheeseburger managed project has a "Base" Issue which definies the units which denote base functional application. The "Base" Issue will change depending on the nature of the applicaiton, i.e. Mobile Web, iOS, etc… 
+Every cheeseburger managed project has a "Base" which gets tagged entirely as it's own issue. The main goal of the base issue is to transfer a working-state database schema into the Wiki. The Base Issue also helps define the initial views for development and moving into a design stage. Once the Base Issue is completed, the Database Schema moves into the Wiki and the appication get's a `v0.0.1` tag.
 
 #### Feature Stages
 

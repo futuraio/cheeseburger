@@ -7,7 +7,9 @@ Influenced by
   - [d.school DT](http://dschool.stanford.edu/)
   - failing at finishing many products
 
-The name is derived from the idea that a product development process should introduce product variance.
+The name is derived from the idea that a product development process should introduce product variance - Which is an idea inspired by a quote from the Swiss graphic designer, Karl Gerstner
+
+> The difficulty lies in finding the balance between maximum formality and maximum freedom, or in other words, the greatest number of constant factors combined with the greatest possible variability.
 
 ![image](http://cl.ly/OqHB/Screen%20Shot%202013-05-08%20at%207.29.25%20PM.png)
 
